@@ -1,0 +1,94 @@
+header{
+	height:110px;
+	width:100%;
+	background-color:green;
+	float:left;
+	
+}
+ul{
+	display:inline;
+}
+*{
+	margin:0px auto;
+}
+img{
+	float:left;
+}
+h1{
+	float:left;
+	margin-top:30px;
+	font-size:50px;
+	margin-left:100px;
+	color:white;
+}
+main{
+	max-width:100%;
+	height:1500px;
+	
+}
+.fantasma{
+	height:110px;
+	width:100%;
+}
+.BANNER{
+	width:100%;
+	height:250px;
+	background-image:url("Imagens/BANNER.JPG");
+	background-repeat: no-repeat;
+	background-size: 100% 250px;
+
+}
+.historia{
+	width:100%;
+	height:450px;
+	float:left;
+	margin-left:2%;
+}
+.concerto{
+	float:left;
+	max-width:50%;
+}
+.ImgH{
+	float:right;
+	width:50%;
+	margin-top:20px;
+	margin-top:20px;
+
+}
+h2 {
+	color:green;
+}
+.sobre{
+	float:left;
+	margin-top:20px;
+	width:100%;
+}
+.missao{
+	float:center;
+	margin-top:20px;
+
+}	
+.visao{
+	float:center;
+	margin-top:40px;
+
+
+}
+.valores{
+	float:center;
+	margin-top:20px;
+
+}
+.textinho{
+	padding-top:5px;
+}
+footer{
+	height:30px;
+	width:100%;
+	background-color:green;
+	text-align:center;
+	color:white;
+}
+
+
+

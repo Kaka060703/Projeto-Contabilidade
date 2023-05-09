@@ -1,0 +1,289 @@
+header{
+	height:110px;
+	width:100%;
+	background-color:#4682B4;
+}
+nav{
+	display:inline-flex;
+	position:relative;
+	top:50px;
+	left:70px;
+}
+ul{
+	list-style:none;
+}
+li{
+	display:inline-flex;
+	font-size:25px;
+	padding-left:10px;
+}
+li a{
+	text-decoration:none;
+	color:white;
+}
+*{
+	margin:0px auto;
+}
+.Logo {
+	float:left;
+}
+h1{
+	float:left;
+	margin-top:30px;
+	font-size:50px;
+	margin-left:100px;
+	color:white;
+}
+main{
+	width:100%;
+	height:5000px;
+	padding-top:250px;
+	background-image:url('Imagens/BANNER.JPG');
+	background-repeat:no-repeat;
+	background-color:#B0C4DE;
+	
+}
+h2{
+    color:#4682B4 ;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size:70px;
+	
+
+	
+}
+section.historia {
+	background-color:white;
+	border-radius:30px;
+	border: 2px solid black;
+	text-align: center;
+	width:60%;
+	height:650px;
+	font-size:20px;
+}
+
+.paragrafo{
+	overflow:auto;
+}
+
+.equipe{
+	height:100px;
+	position: relative;
+	padding-top:10px;
+	top:100px;
+}
+
+.tadeu{
+	border-radius:100px;
+	border: 1px solid black;
+}
+
+.bruna{
+	border-radius:100px;
+	border: 1px solid black;
+}
+
+.jorginho{
+	border-radius:100px;
+	border: 1px solid black;
+}
+
+.malu{
+	border-radius:100px;
+	border: 1px solid black;
+}
+.fundador{
+	position:absolute;
+	width:300px;
+	height:200px;
+	text-align: center;
+	left:30px;
+	font-family:serifa;
+	font-size: 20px;
+
+}
+
+.Coord{
+	position:absolute;
+	width:300px;
+	height:300px;
+	left:35%;
+	transform: translate(-30%);
+	text-align: center;
+	font-family:serifa;
+	font-size: 20px;
+}
+
+.lider{
+	position:absolute;
+	width:390px;
+	height:360px;
+	right:0px;
+	text-align: center;
+	font-family:serifa;
+	font-size: 20px;
+}
+
+.rh{
+	position:absolute;
+	width:300px;
+	height:300px;
+	left:55%;
+	transform: translate(-10%);
+	text-align: center;
+	font-family:serifa;
+	font-size: 20px;
+	
+}
+.box{
+	height:450px;
+	position: relative;
+	padding-top:30px;
+	background-color:#4682B4;
+	top: 400px;
+}
+
+.sobre{
+	font-size: 40px;
+	text-align:center;
+	padding-bottom:30px;
+	top:100px;
+    color: white;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size: 3vw;
+	padding-top:0px;
+}
+
+
+.missao{
+	position:absolute;
+	width:300px;
+	height:200px;
+	text-align: center;
+	left:50px;
+	font-family:serifa;
+	font-size: 20px;
+}
+
+
+.visao{
+	position:absolute;
+	width:300px;
+	height:300px;
+	left:50%;
+	transform: translate(-50%);
+	text-align: center;
+	font-family:serifa;
+	font-size: 20px;
+	
+}
+
+.valores{
+	position:absolute;
+	width:390px;
+	height:360px;
+	right:30px;
+	text-align: center;
+	font-family:serifa;
+	font-size: 20px;
+
+}
+
+.bloco-clientes{
+    width: 100%;
+    height: 500px;
+}
+h4{
+    margin-left: 35%;
+    color: white;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size: 3vw;
+	padding-top:500px;
+	padding-bottom:100px;
+}
+.clientes2{
+	padding-bottom:100px;
+}
+.servicos{
+	height:1100px;
+	width:100%;
+	position: relative;
+	padding-top:10px;
+	background-color:#4682B4;
+	
+}
+table{
+	height:800px;
+	width:800px;
+	background-color:#4682B4;
+}
+
+h5{
+	text-align:center;
+    color: white;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size: 3vw;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
+h6{
+	text-align:center;
+    color: white;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size: 3vw;
+	padding-top:100px;
+	padding-bottom:500px;
+}
+
+.perguntas{
+	font-family:serifa;
+	font-size:20px;
+	height:650px;
+	width:1100px;
+	text-align:justify;
+}
+h6{
+	text-align:center;
+    color: white;
+    text-shadow: 0.8px 0.8px 4px black;
+    font-size: 3vw;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
+.forms{
+	width:100%;
+	height:400px;
+	background-color:#4682B4;
+	padding-bottom:30px;
+}
+
+.contato{
+	font-family:serifa;
+	font-size:30px;
+	text-align:center;
+	border: 3px solid black;
+	background-color:white;
+	border-radius:30px;
+	width:500px;
+}
+
+.mapa{
+	text-align: center;
+}
+
+.textinho{
+	padding-top:10px;
+	font-size:20px;
+}
+footer{
+	height:40px;
+	width:100%;
+	background-color:#4682B4;
+	text-align:center;
+	color:white;
+}
+
+
+
+
